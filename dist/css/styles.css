@@ -13,7 +13,7 @@ body {
   align-items: center;
   color: #fff;
   background-color: #0ea5e9;
-  background-image: resolve('relax.jpg');
+  background-image: url('/dist/img/relax.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
